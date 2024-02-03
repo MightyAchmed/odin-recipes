@@ -1,1 +1,1 @@
-This file is supposed to include details about what skills I will learn in the course of this project. The main skills I expect to learn are creating and managing a project in git, and the HTML/CSS necessary to deploy a webpage.
+This file is supposed to contain details of the skills I will develop during the project, which are proficiency with using git to manage a project and commit changes effectively, as well as HTML web design.
